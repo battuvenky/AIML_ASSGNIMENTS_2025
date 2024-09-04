@@ -12,6 +12,6 @@
 1. [Lab 10](https://github.com/kirankumareranki/AIML-2025/blob/main/AIML_A10.pdf): Implement K-Means Clustering using Iris Data
 
 ## Lab Code Notebooks
-1. [Lab 01](https://github.com/Laluprasad1/AIML-2025/blob/main/Lab01_AIML.ipynb)
+1. [Lab 01](https://github.com/battuvenky/AIML_2025/blob/main/Lab01_AIML.ipynb)
 2. [Lab 02](https://github.com/Laluprasad1/AIML-2025/blob/main/Lab02_AIML.ipynb)
 3. [Lab 03](https://github.com/Laluprasad1/AIML-2025/blob/main/Lab03_AIML.ipynb)
